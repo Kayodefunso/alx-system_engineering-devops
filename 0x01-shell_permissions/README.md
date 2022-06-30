@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1 Create a script that switches the current user to betty
 2 Write a script that prints the effective username of the current user
 3 Write a scipt that prints all the group the current user is a part of
@@ -10,3 +11,6 @@
 10 Write a script that sets the mode of the file hello to this:
 11 Write a script that sets the mode of the file hello the same as olleh's mode
 
+=======
+1 Createa script that switches the current user to betty
+>>>>>>> e85515c8c7a603d490cdd9aa34fdefcd4564e8fd
